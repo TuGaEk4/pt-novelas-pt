@@ -1,90 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channels>
-</channels>
+  
 <channel>
-<name>[COLOR yellow][B]da cor do pecado[/COLOR][/B]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/1c/Da_Cor_do_Pecado.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/TuGaEk4/florsemtempo/main/florsemtempo</externallink>
-<fanart>http://amiamis.e-monsite.com/medias/images/da-cor-do-pecado-novela-2004-.jpg</fanart>
-<info></info>
+<name>[B][COLOR blue]TA CURTINDO? FAÇA UMA DOAÇÃO VIA PIX AO TWOADDON[/COLOR] * [COLOR white]( addonstwo@gmail.com )[/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/33/items/pix_20221008/pix.jpg</thumbnail>
+<fanart>https://ia601501.us.archive.org/33/items/pix_20221008/pix.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]AJUDE NO PROJETO TWOADDONS BR [/COLOR]</info>
+<externallink>https://0.0.0</externallink>
+</channel>  
+  
+  
+  <channel>
+<name>[B][COLOR blue]CANAIS SEM TRAVAMENTOS, PLANOS MENSAL CHAMA NO ZAP [/COLOR] * [COLOR white](11) 96270-0455[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/istockphoto-1204131577-612x612/istockphoto-1204131577-612x612.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE [/COLOR]</info>
+<externallink>https://0.0.0</externallink>
+</channel> 
+  
+
+
+  
+
+  
+
+<channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR 1 - Lista Nando [COLOR green] ON    [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES DE TV[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%201.xml</externallink>
 </channel>
 
-<channels>
-</channels>
+
+ 
+
 <channel>
-<name>[COLOR yellow][B]O clone[/COLOR][/B]</name>
-<thumbnail>https://globointernacional.globo.com/PublishingImages/Logos/Logo_O%20CLONE.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/aZAVXJ81</externallink>
-<fanart>https://1.bp.blogspot.com/_7UDWmCbdtXA/TTXU47ph_pI/AAAAAAAAL0o/uaGM6yR6bj8/s400/o-clone.jpg</fanart>
-<info></info>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 2-  [COLOR  red] ● [COLOR  red] OFF [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink></externallink>
 </channel>
-
-<channels>
-</channels>
-<channel>
-<name>[COLOR yellow][B]viver a vida[/COLOR][/B]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/62/Novela_Viver_a_Vida.jpg/260px-Novela_Viver_a_Vida.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iFFan2ir</externallink>
-<fanart>https://quinto-canal.com/wp-content/uploads/2020/10/Viver-A-Vida-logo-2009.jpg</fanart>
-<info></info>
-</channel>
-
-<channels>
-</channels>
-<channel>
-<name>[COLOR yellow][B]A Dona do Pedaco[/COLOR][/B]</name>
-<thumbnail>https://tse4.mm.bing.net/th?id=OIP.9CV72zWgmjCZ96-2XFrvMAAAAA&pid=Api&P=0&w=300&h=300</thumbnail>
-<externallink>https://pastebin.com/raw/MXp99fmP</externallink>
-<fanart>https://tse4.mm.bing.net/th?id=OIP.9CV72zWgmjCZ96-2XFrvMAAAAA&pid=Api&P=0&w=300&h=300</fanart>
-<info></info>
-</channel>
-
-<channels>
-</channels>
-<channel>
-<name>[COLOR yellow][B]Caminho das Indias[/COLOR][/B]</name>
-<thumbnail>https://i0.wp.com/amonovelas.com.br/wp-content/uploads/2019/07/caminho-das-indias.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/u3LxafBt</externallink>
-<fanart>https://i0.wp.com/amonovelas.com.br/wp-content/uploads/2019/07/caminho-das-indias.jpg</fanart>
-<info></info>
-</channel>
-
-<channels>
-</channels>
-<channel>
-<name>[COLOR yellow][B]Salve Jorge[/COLOR][/B]</name>
-<thumbnail>https://img4.bdbphotos.com/images/400x400/4/q/4qb18cgbim9rbi.jpg?skj2io4l</thumbnail>
-<externallink>https://ghostbin.co/paste/8tmwr/raw</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNCZbbj9JkaqmlIQh835yfXvTNlNeQtSheA&usqp=CAU</fanart>
-<info></info>
-<channels>
-
-<channels>
-</channels>
-<channel>
-<name>[COLOR yellow][B]Lacos de Familia[/COLOR][/B]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9d/Logotipo_de_La%C3%A7os_de_Fam%C3%ADlia.png</thumbnail>
-<externallink>https://pastebin.com/raw/haQPTyp9</externallink>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/9/9d/Logotipo_de_La%C3%A7os_de_Fam%C3%ADlia.png</fanart>
-<info></info>
-</channel>
-
-<channels>
-</channels>
-<channel>
-<name>[COLOR yellow]cravo ia rosa[B][/COLOR][/B]</name>
-<thumbnail>http://cclb.ddns.net:25461/images/1a07fd7106f9f215d4567931bf7e6ac8.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/h88cH5nC</externallink>
-<fanart>https://tse4.mm.bing.net/th?id=OIP.kP9Zkp6voW7eNiy2b9Z_QQAAAA&pid=Api&P=0&w=264&h=175</fanart>
-<info></info>
+  
+  
+ <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR 3 -  [COLOR  red] ● [COLOR  red] OFF   [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 
 
+  
+  <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR YOUTUBE - séries/desenhos  [COLOR red] EM CONSTRUÇÃO [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24hs%20YouTube%20.xml</externallink>
+</channel>
 
 
+    
+  <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR - TWO BR CANAIS 24 HRS [COLOR green]ON [/COLOR][/B]</name>
+<thumbnail>https://ia801402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24%20HRS.xml</externallink>
+</channel>
+  
+  
+ <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR - PLUTO TV [COLOR green]ON[/COLOR][/B]</name>
+<thumbnail>https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]CANAIS PLUTO TV [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%204%20.xml</externallink>
+</channel>   
+  
+</channels>
 
-
-
-</items>
